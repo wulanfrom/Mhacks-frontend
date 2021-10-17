@@ -1,0 +1,42 @@
+.keyword {
+  background-color: #14bf96;
+  color: #f6f5f1;
+  font-weight: 700;
+  border-radius: 10px;
+}
+
+.ai-summary {
+  background-color: #ffffff;
+  border-color: #c4c4c4;
+  color: #000;
+  font-family: "Courier Prime", monospace;
+}
+
+.ask-tutor {
+  /* z-index: 10; */
+  background-color: #14bf96 !important;
+  color: whitesmoke !important;
+  font-weight: 700;
+  border-color: #14bf96 !important;
+}
+
+.backChapter {
+  color: #14bf96;
+  background-color: transparent;
+  border: none;
+}
+
+.markdownNotes {
+  margin-top: 15px;
+}
+
+.questionMark {
+  color: #ffffff;
+  margin-top: -3px;
+}
+
+.tutorList {
+  background-color: #102b61;
+  color: #f6f5f1;
+  align-content: center;
+}

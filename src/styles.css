@@ -1,0 +1,92 @@
+.App {
+  font-family: Oxygen;
+  /* text-align: center; */
+  /* box-sizing: border-box; */
+}
+
+body {
+  background-color: #f6f5f1 !important;
+}
+
+.navigation {
+  background-color: #102b61 !important;
+}
+
+.navText {
+  color: #f6f5f1 !important;
+  font-weight: bold !important;
+}
+
+.progress-bar {
+  background-color: #14bf96 !important;
+  text-align: center;
+  font-weight: bold;
+  color: #f6f5f1;
+}
+
+.buttons {
+  background-color: #14bf96 !important;
+  color: #f6f5f1 !important;
+  font-weight: bold;
+  border-color: #14bf96 !important;
+}
+
+.dropText {
+  color: #14bf96;
+  text-align: center;
+}
+
+.cardBody {
+  border-radius: 10px;
+  /* border-color: #c4c4c4; */
+  /* width: 90%; */
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.rightAlign {
+  text-align: right;
+  align-self: center;
+}
+
+.titles {
+  font-weight: bold;
+}
+
+.extra {
+  margin-top: -5px;
+}
+
+.whiteBack {
+  background-color: #ffffff;
+  width: 100%;
+}
+
+.cardTitle {
+  margin-bottom: 0 !important;
+  font-size: 16px !important;
+  font-weight: bolder !important;
+}
+
+.cardText {
+  margin-top: 0;
+  font-size: 16px;
+  font-weight: lighter;
+  color: #102b61;
+}
+
+.generate {
+  padding: 5px 40px;
+}
+
+.genButton {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.cursorMouse {
+  cursor: pointer;
+}
+
+/* .contents {
+  margin-top: 30px;
+} */
